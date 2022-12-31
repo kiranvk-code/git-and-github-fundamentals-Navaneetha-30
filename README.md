@@ -107,5 +107,3 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * [GitHub community forum](https://github.community/)
 
 
-## This is my first time using github.
-* This assignment helped to understand how to use github and its repositories. Also helped to me learn how to make pull requests.
